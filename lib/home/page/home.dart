@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-       child: Text('HOME', style: TextStyle(fontSize: 20),))
+       child: Text('Inició Session en \nHOME', style: TextStyle(fontSize: 20),))
     );
   }
 }
